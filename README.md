@@ -1,1 +1,1 @@
-# EDU-TECH
+# EDU-TECH solve
